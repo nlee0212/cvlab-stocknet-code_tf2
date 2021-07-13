@@ -364,7 +364,8 @@ class DataPipe:
                 'n_words': aligned_info_dict['n_words'],
                 'n_msgs': aligned_info_dict['n_msgs'],
             }
-
+            if phase == 'dev':
+                print(sample_dict)
             yield sample_dict
 
     def batch_gen(self, phase):
@@ -373,11 +374,11 @@ class DataPipe:
         vocab_id_dict = self.index_token(vocab, key='token')
         stock_id_dict = self.index_token(stock_symbols, key='token', type='stock')
         generators = [self.sample_gen_from_one_stock(vocab_id_dict, stock_id_dict, s, phase) for s in stock_symbols]
-        # logger.info('{0} Generators prepared...'.format(len(generators)))
+        logger.info('{0} Generators prepared...'.format(len(generators)))
 
         while True:
             # start_time = time.time()
-            # logger.info('start to collect a batch...')
+            logger.info('start to collect a batch...')
             stock_batch = np.zeros([batch_size, ], dtype=np.int32)
             T_batch = np.zeros([batch_size, ], dtype=np.int32)
             y_batch = np.zeros([batch_size, self.max_n_days, self.y_size], dtype=np.float32)
@@ -440,10 +441,10 @@ class DataPipe:
         batch_size = 2000
         vocab_id_dict = self.index_token(vocab, key='token')
         stock_id_dict = self.index_token(stock_symbols, key='token', type='stock')
-
+        
         for s in stock_symbols:
+            print(phase,s)
             gen = self.sample_gen_from_one_stock(vocab_id_dict, stock_id_dict, s, phase)
-
             stock_batch = np.zeros([batch_size, ], dtype=np.int32)
             T_batch = np.zeros([batch_size, ], dtype=np.int32)
             n_msgs_batch = np.zeros([batch_size, self.max_n_days], dtype=np.int32)
@@ -454,29 +455,42 @@ class DataPipe:
             word_batch = np.zeros([batch_size, self.max_n_days, self.max_n_msgs, self.max_n_words], dtype=np.int32)
             ss_index_batch = np.zeros([batch_size, self.max_n_days, self.max_n_msgs], dtype=np.int32)
             main_mv_percent_batch = np.zeros([batch_size, ], dtype=np.float32)
-
+            print('finished initializing')
             sample_id = 0
             while True:
+                sample_info_dict = next(gen)
                 try:
-                    sample_info_dict = next(gen)
+                    print('start')
+                    print(sample_info_dict)
                     T = sample_info_dict['T']
-
+                    print('T:',T)
                     # meta
                     stock_batch[sample_id] = sample_info_dict['stock']
+                    print('stock batch',stock_batch[sample_id])
                     T_batch[sample_id] = sample_info_dict['T']
+                    print('T batch: ',T_batch[sample_id])
                     # target
                     y_batch[sample_id, :T] = sample_info_dict['ys']
+                    print('y_batch: ',y_batch[sample_id])
                     main_mv_percent_batch[sample_id] = sample_info_dict['main_mv_percent']
+                    print('main mv percent batch:',main_mv_percent_batch[sample_id])
                     mv_percent_batch[sample_id, :T] = sample_info_dict['mv_percents']
+                    print('mv percent batch:',mv_percent_batch[sample_id, :T])
                     # source
                     price_batch[sample_id, :T] = sample_info_dict['prices']
+                    print('price batch:',price_batch[sample_id,:T])
                     word_batch[sample_id, :T] = sample_info_dict['msgs']
+                    print('word batch:',word_batch[sample_id,:T])
                     ss_index_batch[sample_id, :T] = sample_info_dict['ss_indices']
+                    print('ss index batch:',ss_index_batch[sample_id,:T])
                     n_msgs_batch[sample_id, :T] = sample_info_dict['n_msgs']
+                    print('n msgs batch:',n_msgs_batch[sample_id,:T])
                     n_words_batch[sample_id, :T] = sample_info_dict['n_words']
+                    print('n words batch:',n_words_batch[sample_id,:T])
 
                     sample_id += 1
                 except StopIteration:
+                    print('WHYYYYYYYYYYYYYYYSTOPPPPP')
                     break
 
             n_sample_threshold = 1
@@ -500,7 +514,7 @@ class DataPipe:
                 'n_msgs_batch': n_msgs_batch[:sample_id],
                 'n_words_batch': n_words_batch[:sample_id],
             }
-
+            print(batch_dict)
             yield batch_dict
 
     def sample_mv_percents(self, phase):

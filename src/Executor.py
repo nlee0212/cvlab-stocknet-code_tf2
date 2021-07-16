@@ -66,7 +66,7 @@ class Executor:
 
     def generation(self, sess, phase):
         generation_gen = self.pipe.batch_gen_by_stocks(phase)
-        # print('generation_gen: ',len(generation_gen))
+
         gen_loss_list = list()
         gen_size, gen_n_acc = 0.0, 0.0
         y_list, y_list_ = list(), list()
@@ -102,8 +102,9 @@ class Executor:
             gen_batch_n_acc = float(sess.run(metrics.n_accurate(y=gen_batch_y, y_=gen_batch_y_)))  # float
             gen_n_acc += gen_batch_n_acc
 
+            metrics.n_rmse(y=gen_batch_y, y_=gen_batch_y_)
+
             batch_size = float(gen_batch_dict['batch_size'])
-            print('batch size:',batch_size)
             gen_size += batch_size
 
         results = metrics.eval_res(gen_n_acc, gen_size, gen_loss_list, y_list, y_list_)

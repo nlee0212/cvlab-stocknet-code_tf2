@@ -102,8 +102,6 @@ class Executor:
             gen_batch_n_acc = float(sess.run(metrics.n_accurate(y=gen_batch_y, y_=gen_batch_y_)))  # float
             gen_n_acc += gen_batch_n_acc
 
-            metrics.n_rmse(y=gen_batch_y, y_=gen_batch_y_)
-
             batch_size = float(gen_batch_dict['batch_size'])
             gen_size += batch_size
 

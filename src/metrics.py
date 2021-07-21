@@ -12,17 +12,6 @@ def n_accurate(y, y_):
     n_accurate = tf.reduce_sum(tf.cast(correct_y_batch, tf.float32))  # similar to numpy.count_nonzero()
     return n_accurate
 
-def n_rmse(y, y_):
-    """
-        y, y_: Tensor, shape: [batch_size, y_size];
-    """
-    print(y)
-    print(y_)
-    """correct_y_batch = tf.equal(tf.argmax(y, 1), tf.argmax(y_, 1))
-    n_accurate = tf.reduce_sum(tf.cast(correct_y_batch, tf.float32))  # similar to numpy.count_nonzero()
-    return n_accurate"""
-
-
 def eval_acc(n_acc, total):
     return float(n_acc) / total
 

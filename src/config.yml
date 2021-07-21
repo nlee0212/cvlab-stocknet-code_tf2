@@ -6,7 +6,7 @@ model:
   dropout_vmd_in: 0.3
   dropout_mel_in: 0.3
   n_epochs: 15
-  batch_size: 512
+  batch_size: 32
 
   kl_lambda_anneal_rate: 0.005  # 0.005, 0.002, 0.001, 0.0005
   kl_lambda_start_step: 0

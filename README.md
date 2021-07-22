@@ -1,4 +1,4 @@
-# stocknet-code
+# stocknet-code (2021 ver. by nayeon)
 
 This repository releases the code for stock movement prediction from tweets and historical stock prices. Please cite the following paper [[bib](https://aclanthology.info/papers/P18-1183/p18-1183.bib)] if you use this code,  
 
@@ -8,8 +8,8 @@ Yumo Xu and Shay B. Cohen. 2018. [Stock Movement Prediction from Tweets and Hist
 Should you have any query please contact me at [yumo.xu@ed.ac.uk](mailto:yumo.xu@ed.ac.uk).
 
 ## Dependencies
-- Python 2.7.11
-- Tensorflow 1.4.0
+- Python 3.8.10
+- Tensorflow 2.4.0
 - Scipy 1.0.0
 - NLTK 3.2.5
 

@@ -1,6 +1,6 @@
-{"text": ["XLE", "Financials", "Select", "Sector", "SPDR", "P", "/", "E", "Ratio", "https://t.co/jmbhSDQhv6", "$", "XLE", "$", "SNPS", "$", "VXX", "$", "MITK", "#XLE", "#nasdaq", "#invest"], "id": "668381180434092033", "created_at": "2015-11-22T10:51:05.000Z"}
-{"text": ["SNPS", "Staples", ",", "Inc", ".", "Ex-Div", "Date", "https://t.co/t23rn2m50v", "$", "SNPS", "$", "GE", "$", "JKS", "$", "NUGT", "#SNPS", "#pennystocks", "#finance"], "id": "668380172819697665", "created_at": "2015-11-22T10:47:05.000Z"}
-{"text": ["MRK", "Micron", "Technology", ",", "Inc", ".", "Open", "https://t.co/er38pSvhNw", "$", "MRK", "$", "SNPS", "$", "HAL", "$", "MCD", "#MRK", "#tradeideas", "#finance"], "id": "668379287502782464", "created_at": "2015-11-22T10:43:34.000Z"}
-{"text": ["EWZ", "Exelixis", ",", "Inc", ".", "Market", "Cap", "https://t.co/5pqrAA0QwM", "$", "EWZ", "$", "HD", "$", "SNPS", "$", "CPPL", "#EWZ", "#stocks", "#stockmarket"], "id": "668378161650925568", "created_at": "2015-11-22T10:39:06.000Z"}
-{"text": ["Synopsys", "Trading", "Down", "6.2", "%", "$", "SNPS", "https://t.co/yfSUXqYbdm"], "id": "668293749810847746", "created_at": "2015-11-22T05:03:40.000Z"}
-{"text": ["Synopsys", "Trading", "Down", "6.2", "%", "$", "SNPS", "https://t.co/EgiOzPd2Lx"], "id": "668292972572725248", "created_at": "2015-11-22T05:00:35.000Z"}
+{"text": ["xle", "financials", "select", "sector", "spdr", "p", "/", "e", "ratio", "URL", "$", "xle", "$", "snps", "$", "vxx", "$", "mitk", "#xle", "#nasdaq", "#invest"], "id": "668381180434092033", "created_at": "2015-11-22T10:51:05.000Z"}
+{"text": ["snps", "staples", ",", "inc", ".", "ex-div", "date", "URL", "$", "snps", "$", "ge", "$", "jks", "$", "nugt", "#snps", "#pennystocks", "#finance"], "id": "668380172819697665", "created_at": "2015-11-22T10:47:05.000Z"}
+{"text": ["mrk", "micron", "technology", ",", "inc", ".", "open", "URL", "$", "mrk", "$", "snps", "$", "hal", "$", "mcd", "#mrk", "#tradeideas", "#finance"], "id": "668379287502782464", "created_at": "2015-11-22T10:43:34.000Z"}
+{"text": ["ewz", "exelixis", ",", "inc", ".", "market", "cap", "URL", "$", "ewz", "$", "hd", "$", "snps", "$", "cppl", "#ewz", "#stocks", "#stockmarket"], "id": "668378161650925568", "created_at": "2015-11-22T10:39:06.000Z"}
+{"text": ["synopsys", "trading", "down", "6.2", "%", "$", "snps", "URL"], "id": "668293749810847746", "created_at": "2015-11-22T05:03:40.000Z"}
+{"text": ["synopsys", "trading", "down", "6.2", "%", "$", "snps", "URL"], "id": "668292972572725248", "created_at": "2015-11-22T05:00:35.000Z"}

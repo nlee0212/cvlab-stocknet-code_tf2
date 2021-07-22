@@ -1,6 +1,6 @@
-{"text": ["RT", "@TheTradeXchange", ":", "$", "XLNX", "JAN", "50", "CALL", "Activity", "on", "the", "OFFER"], "id": "674686707237830656", "created_at": "2015-12-09T20:27:00.000Z"}
-{"text": ["$", "XLNX", "JAN", "50", "CALL", "Activity", "on", "the", "OFFER"], "id": "674686654880219136", "created_at": "2015-12-09T20:26:48.000Z"}
-{"text": ["$", "XLNX", "vol"], "id": "674686565587795970", "created_at": "2015-12-09T20:26:26.000Z"}
-{"text": ["tx-options", ":", "$", "XLNX", "JAN", "50", "CALL", "Activity", "on", "the", "OFFER"], "id": "674686512705990658", "created_at": "2015-12-09T20:26:14.000Z"}
-{"text": ["More", "call", "action", "in", "$", "XLNX", "today", "...", "three", "straight", "days", "of", "buying"], "id": "674684481014493186", "created_at": "2015-12-09T20:18:09.000Z"}
-{"text": ["$", "XLNX", "-0.91", "%", "$", "TXN", "-1.04", "%", "$", "LLTC", "-1.08", "%", "$", "TSM", "-1.10", "%", "$", "KLAC", "-1.12", "%", "$", "ADI", "-1.22", "%", "PART", "3"], "id": "674636454669262848", "created_at": "2015-12-09T17:07:19.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "xlnx", "jan", "50", "call", "activity", "on", "the", "offer"], "id": "674686707237830656", "created_at": "2015-12-09T20:27:00.000Z"}
+{"text": ["$", "xlnx", "jan", "50", "call", "activity", "on", "the", "offer"], "id": "674686654880219136", "created_at": "2015-12-09T20:26:48.000Z"}
+{"text": ["$", "xlnx", "vol"], "id": "674686565587795970", "created_at": "2015-12-09T20:26:26.000Z"}
+{"text": ["tx-options", ":", "$", "xlnx", "jan", "50", "call", "activity", "on", "the", "offer"], "id": "674686512705990658", "created_at": "2015-12-09T20:26:14.000Z"}
+{"text": ["more", "call", "action", "in", "$", "xlnx", "today", "...", "three", "straight", "days", "of", "buying"], "id": "674684481014493186", "created_at": "2015-12-09T20:18:09.000Z"}
+{"text": ["$", "xlnx", "-0.91", "%", "$", "txn", "-1.04", "%", "$", "lltc", "-1.08", "%", "$", "tsm", "-1.10", "%", "$", "klac", "-1.12", "%", "$", "adi", "-1.22", "%", "part", "3"], "id": "674636454669262848", "created_at": "2015-12-09T17:07:19.000Z"}

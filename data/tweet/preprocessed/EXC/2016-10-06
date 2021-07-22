@@ -1,9 +1,9 @@
-{"text": ["$", "EXC", "32", "Puts", "BUYING", "Activity", "expiring", "on", "20th", "Jan", ",", "Vol", "446", "@", "IS"], "id": "784116105690419200", "created_at": "2016-10-06T19:40:22.000Z"}
-{"text": ["$", "EXC", "-", "Peak", "Time", "Savings", "Surpass", "$", "1.2", "Million", "in", "Bill", "Credits", "to", "ComEd", "Customers", "https://t.co/F3Dp3DRGDC"], "id": "784054868298334208", "created_at": "2016-10-06T15:37:02.000Z"}
-{"text": ["$", "EXC", "-", "Once-Hot", "Dividend", "Stocks", "Cool", "Off", "-", "-", "WSJ", "https://t.co/fKhhoeFZqz"], "id": "783925519993675777", "created_at": "2016-10-06T07:03:03.000Z"}
-{"text": ["Exelon's", "Third", "Quarter", "Earnings", "Call", "Preview", "https://t.co/anq7b7CWoA", "$", "XLU", "$", "EXC"], "id": "783906676407578624", "created_at": "2016-10-06T05:48:10.000Z"}
-{"text": ["Tokio", "Marine", "Asset", "Management", "Co", ".", "Ltd", ".", "Reduces", "Position", "in", "Exelon", "Corp", ".", "$", "EXC", "https://t.co/xdinVjXpAz"], "id": "783872016612986881", "created_at": "2016-10-06T03:30:27.000Z"}
-{"text": ["Tokio", "Marine", "Asset", "Management", "Co", ".", "Ltd", ".", "Reduces", "Position", "in", "Exelon", "Corp", ".", "$", "EXC", "https://t.co/W96NxAppJn"], "id": "783870030161281024", "created_at": "2016-10-06T03:22:33.000Z"}
-{"text": ["First", "National", "Trust", "Co", ".", "Raises", "Position", "in", "Exelon", "Corp", ".", "$", "EXC", "https://t.co/NiE8N4OtCC"], "id": "783863484517933058", "created_at": "2016-10-06T02:56:32.000Z"}
-{"text": ["First", "National", "Trust", "Co", ".", "Raises", "Position", "in", "Exelon", "Corp", ".", "$", "EXC", "https://t.co/8IJMBynCfd"], "id": "783863169748000768", "created_at": "2016-10-06T02:55:17.000Z"}
-{"text": ["Stock", "Chart", "Technical", "Analysis", "https://t.co/PoSq58xB9l", "$", "CME", "$", "COP", "$", "EXC", "$", "HLF", "$", "ILMN", "$", "IP", "$", "JD"], "id": "783835034079801348", "created_at": "2016-10-06T01:03:29.000Z"}
+{"text": ["$", "exc", "32", "puts", "buying", "activity", "expiring", "on", "20th", "jan", ",", "vol", "446", "@", "is"], "id": "784116105690419200", "created_at": "2016-10-06T19:40:22.000Z"}
+{"text": ["$", "exc", "-", "peak", "time", "savings", "surpass", "$", "1.2", "million", "in", "bill", "credits", "to", "comed", "customers", "URL"], "id": "784054868298334208", "created_at": "2016-10-06T15:37:02.000Z"}
+{"text": ["$", "exc", "-", "once-hot", "dividend", "stocks", "cool", "off", "-", "-", "wsj", "URL"], "id": "783925519993675777", "created_at": "2016-10-06T07:03:03.000Z"}
+{"text": ["exelon's", "third", "quarter", "earnings", "call", "preview", "URL", "$", "xlu", "$", "exc"], "id": "783906676407578624", "created_at": "2016-10-06T05:48:10.000Z"}
+{"text": ["tokio", "marine", "asset", "management", "co", ".", "ltd", ".", "reduces", "position", "in", "exelon", "corp", ".", "$", "exc", "URL"], "id": "783872016612986881", "created_at": "2016-10-06T03:30:27.000Z"}
+{"text": ["tokio", "marine", "asset", "management", "co", ".", "ltd", ".", "reduces", "position", "in", "exelon", "corp", ".", "$", "exc", "URL"], "id": "783870030161281024", "created_at": "2016-10-06T03:22:33.000Z"}
+{"text": ["first", "national", "trust", "co", ".", "raises", "position", "in", "exelon", "corp", ".", "$", "exc", "URL"], "id": "783863484517933058", "created_at": "2016-10-06T02:56:32.000Z"}
+{"text": ["first", "national", "trust", "co", ".", "raises", "position", "in", "exelon", "corp", ".", "$", "exc", "URL"], "id": "783863169748000768", "created_at": "2016-10-06T02:55:17.000Z"}
+{"text": ["stock", "chart", "technical", "analysis", "URL", "$", "cme", "$", "cop", "$", "exc", "$", "hlf", "$", "ilmn", "$", "ip", "$", "jd"], "id": "783835034079801348", "created_at": "2016-10-06T01:03:29.000Z"}

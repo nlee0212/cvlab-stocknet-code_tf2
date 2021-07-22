@@ -1,5 +1,5 @@
-{"text": ["$", "WDAY", "hourly", "https://t.co/oWZcljTsP5"], "id": "660106092614127616", "created_at": "2015-10-30T14:48:51.000Z"}
-{"text": ["$", "WDAY", "needs", "day", "high", "$", "78.85", "to", "get", "going", ".", "Sense", "a", "+", "$", "2-3", "day", "soon", "."], "id": "660102248429699072", "created_at": "2015-10-30T14:33:34.000Z"}
-{"text": ["Workday", ",", "$", "WDAY", ",", "target", ":", "70.33", "(", "-10.35", "%", ")", ".", "https://t.co/aMqKdQUanR", "#trading", "#daytrading", "#stock", "#premarket"], "id": "660042740705587200", "created_at": "2015-10-30T10:37:07.000Z"}
-{"text": ["WDAY", "Workday", ",", "Inc", ".", "Company", "Info", "https://t.co/HJBWeSympZ", "$", "WDAY", "$", "XLI", "$", "LOCK", "$", "DIA", "#WDAY", "#invest", "#investing"], "id": "659940430365134848", "created_at": "2015-10-30T03:50:34.000Z"}
-{"text": ["TBEV", "High", "Performance", "Beverage", "Co", ".", "Chart", "https://t.co/kyTypFuzFy", "$", "TBEV", "$", "SIG", "$", "WDAY", "$", "GS", "#TBEV", "#nasdaq", "#tradeideas"], "id": "659940051527168000", "created_at": "2015-10-30T03:49:04.000Z"}
+{"text": ["$", "wday", "hourly", "URL"], "id": "660106092614127616", "created_at": "2015-10-30T14:48:51.000Z"}
+{"text": ["$", "wday", "needs", "day", "high", "$", "78.85", "to", "get", "going", ".", "sense", "a", "+", "$", "2-3", "day", "soon", "."], "id": "660102248429699072", "created_at": "2015-10-30T14:33:34.000Z"}
+{"text": ["workday", ",", "$", "wday", ",", "target", ":", "70.33", "(", "-10.35", "%", ")", ".", "URL", "#trading", "#daytrading", "#stock", "#premarket"], "id": "660042740705587200", "created_at": "2015-10-30T10:37:07.000Z"}
+{"text": ["wday", "workday", ",", "inc", ".", "company", "info", "URL", "$", "wday", "$", "xli", "$", "lock", "$", "dia", "#wday", "#invest", "#investing"], "id": "659940430365134848", "created_at": "2015-10-30T03:50:34.000Z"}
+{"text": ["tbev", "high", "performance", "beverage", "co", ".", "chart", "URL", "$", "tbev", "$", "sig", "$", "wday", "$", "gs", "#tbev", "#nasdaq", "#tradeideas"], "id": "659940051527168000", "created_at": "2015-10-30T03:49:04.000Z"}

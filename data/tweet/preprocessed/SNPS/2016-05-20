@@ -1,14 +1,14 @@
-{"text": ["$", "SNPS", "watching", "long", "https://t.co/sVGqFMlzcR"], "id": "733806957912412161", "created_at": "2016-05-20T23:49:46.000Z"}
-{"text": ["MidCap", "#Stocks", "Trend", "$", "MENT", "$", "IDTI", "$", "CLH", "$", "KMPR", "$", "CDNS", "$", "NTCT", "$", "SF", "$", "AKRX", "$", "WBMD", "$", "MANH", "$", "CY", "$", "MMS", "$", "SNPS", "$", "WWAV", "$", "KEX", "$", "MUSA", "@", "https://t.co/H27z0JgFGk"], "id": "733795237995393025", "created_at": "2016-05-20T23:03:12.000Z"}
-{"text": ["MidCap", "#Stocks", "Trend", "$", "IDTI", "$", "KMPR", "$", "NTCT", "$", "SF", "$", "CDNS", "$", "CY", "$", "MANH", "$", "SNPS", "$", "MMS", "$", "ALGN", "$", "GHC", "$", "KEX", "$", "FDS", "$", "WCN", "$", "MUSA", "$", "BR", "@", "https://t.co/H27z0JgFGk"], "id": "733749346005553152", "created_at": "2016-05-20T20:00:51.000Z"}
-{"text": ["Synopsys", "hits", "a", "1", "quarter", "high", "https://t.co/5mJzMNYtns", "$", "SNPS", "#Synopsys", "https://t.co/mS680xwRuA"], "id": "733728268193521665", "created_at": "2016-05-20T18:37:05.000Z"}
-{"text": ["Mentor", "Graphics", "jumps", "after", "FQ1", "beat", ",", "solid", "guidance", ";", "Cadence", ",", "Synopsys", "also", "up", "https://t.co/cvUXKKeEqU", "$", "MENT", "$", "CDNS", "$", "SNPS"], "id": "733712095334793216", "created_at": "2016-05-20T17:32:49.000Z"}
-{"text": ["SNPS", "$", "SNPS", "https://t.co/ABE7RR5259", "~", "via", "https://t.co/Kd2qwcsyit"], "id": "733710380665462784", "created_at": "2016-05-20T17:26:01.000Z"}
-{"text": ["SNPS", "$", "SNPS", "https://t.co/IbQYP0QLr9"], "id": "733708341633900544", "created_at": "2016-05-20T17:17:54.000Z"}
-{"text": ["$", "SNPS", "chart", ":", "SNPS", ".", "https://t.co/nqk4RC6vN6"], "id": "733708341625556992", "created_at": "2016-05-20T17:17:54.000Z"}
-{"text": ["$", "SNPS", "#breakout", "#resistance", "49.41", "detected", "10:10", "AM", ",", "May", "20", "EDT", ";", "recent", "#support", "47.37", "https://t.co/mWN5vol7Kz", "#bullish"], "id": "733661301382094848", "created_at": "2016-05-20T14:10:59.000Z"}
-{"text": ["LPL", "Financial", "LLC", "Has", "$", "546,000", "Position", "in", "Synopsys", ",", "Inc", ".", "$", "SNPS", "https://t.co/NJ4feo7WDk"], "id": "733548677629771777", "created_at": "2016-05-20T06:43:28.000Z"}
-{"text": ["$", "SNPS", "Synopsys", "Kurtosis", ":", "-1.41", "Skew", ":", "-0.29", "Correlation", "Histogram", "#bigdata", "https://t.co/batufADxrX"], "id": "733546140390449152", "created_at": "2016-05-20T06:33:23.000Z"}
-{"text": ["Synopsys", ",", "Inc", ".", "$", "SNPS", "Releases", "Q3", "Earnings", "Guidance", "https://t.co/EmkQ59NNLJ"], "id": "733543006192553985", "created_at": "2016-05-20T06:20:55.000Z"}
-{"text": ["Synopsys", ",", "Inc", ".", "$", "SNPS", "Releases", "FY16", "Earnings", "Guidance", "https://t.co/sE3KLYpd54"], "id": "733541110207766529", "created_at": "2016-05-20T06:13:23.000Z"}
-{"text": ["Synopsys", ",", "Inc", ".", "$", "SNPS", "Releases", "Q3", "Earnings", "Guidance", "https://t.co/38AaTQjLs8"], "id": "733541105501773824", "created_at": "2016-05-20T06:13:22.000Z"}
+{"text": ["$", "snps", "watching", "long", "URL"], "id": "733806957912412161", "created_at": "2016-05-20T23:49:46.000Z"}
+{"text": ["midcap", "#stocks", "trend", "$", "ment", "$", "idti", "$", "clh", "$", "kmpr", "$", "cdns", "$", "ntct", "$", "sf", "$", "akrx", "$", "wbmd", "$", "manh", "$", "cy", "$", "mms", "$", "snps", "$", "wwav", "$", "kex", "$", "musa", "@", "URL"], "id": "733795237995393025", "created_at": "2016-05-20T23:03:12.000Z"}
+{"text": ["midcap", "#stocks", "trend", "$", "idti", "$", "kmpr", "$", "ntct", "$", "sf", "$", "cdns", "$", "cy", "$", "manh", "$", "snps", "$", "mms", "$", "algn", "$", "ghc", "$", "kex", "$", "fds", "$", "wcn", "$", "musa", "$", "br", "@", "URL"], "id": "733749346005553152", "created_at": "2016-05-20T20:00:51.000Z"}
+{"text": ["synopsys", "hits", "a", "1", "quarter", "high", "URL", "$", "snps", "#synopsys", "URL"], "id": "733728268193521665", "created_at": "2016-05-20T18:37:05.000Z"}
+{"text": ["mentor", "graphics", "jumps", "after", "fq1", "beat", ",", "solid", "guidance", ";", "cadence", ",", "synopsys", "also", "up", "URL", "$", "ment", "$", "cdns", "$", "snps"], "id": "733712095334793216", "created_at": "2016-05-20T17:32:49.000Z"}
+{"text": ["snps", "$", "snps", "URL", "~", "via", "URL"], "id": "733710380665462784", "created_at": "2016-05-20T17:26:01.000Z"}
+{"text": ["snps", "$", "snps", "URL"], "id": "733708341633900544", "created_at": "2016-05-20T17:17:54.000Z"}
+{"text": ["$", "snps", "chart", ":", "snps", ".", "URL"], "id": "733708341625556992", "created_at": "2016-05-20T17:17:54.000Z"}
+{"text": ["$", "snps", "#breakout", "#resistance", "49.41", "detected", "10:10", "am", ",", "may", "20", "edt", ";", "recent", "#support", "47.37", "URL", "#bullish"], "id": "733661301382094848", "created_at": "2016-05-20T14:10:59.000Z"}
+{"text": ["lpl", "financial", "llc", "has", "$", "546,000", "position", "in", "synopsys", ",", "inc", ".", "$", "snps", "URL"], "id": "733548677629771777", "created_at": "2016-05-20T06:43:28.000Z"}
+{"text": ["$", "snps", "synopsys", "kurtosis", ":", "-1.41", "skew", ":", "-0.29", "correlation", "histogram", "#bigdata", "URL"], "id": "733546140390449152", "created_at": "2016-05-20T06:33:23.000Z"}
+{"text": ["synopsys", ",", "inc", ".", "$", "snps", "releases", "q3", "earnings", "guidance", "URL"], "id": "733543006192553985", "created_at": "2016-05-20T06:20:55.000Z"}
+{"text": ["synopsys", ",", "inc", ".", "$", "snps", "releases", "fy16", "earnings", "guidance", "URL"], "id": "733541110207766529", "created_at": "2016-05-20T06:13:23.000Z"}
+{"text": ["synopsys", ",", "inc", ".", "$", "snps", "releases", "q3", "earnings", "guidance", "URL"], "id": "733541105501773824", "created_at": "2016-05-20T06:13:22.000Z"}

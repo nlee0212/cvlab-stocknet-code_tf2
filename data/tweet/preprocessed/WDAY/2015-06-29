@@ -1,13 +1,13 @@
-{"text": ["RT", "@SeekingAlpha", ":", "Proofpoint", ":", "Answering", "A", "Question", "On", "Core", "Profitability", "http://t.co/oI7h2Bv6YS", "$", "NOW", "$", "WDAY", "$", "PFPT"], "id": "615583266947629056", "created_at": "2015-06-29T18:11:02.000Z"}
-{"text": ["Proofpoint", ":", "Answering", "A", "Question", "On", "Core", "Profitability", "http://t.co/oI7h2Bv6YS", "$", "NOW", "$", "WDAY", "$", "PFPT"], "id": "615580440280195073", "created_at": "2015-06-29T17:59:48.000Z"}
-{"text": ["$", "WDAY", "Rectangle", "Channel", "breakdown", "http://t.co/Q8gIcejyYW"], "id": "615555815194267648", "created_at": "2015-06-29T16:21:57.000Z"}
-{"text": ["$", "WDAY", "Trade", "Card", "->", "http://t.co/UKo7jPAA1M", "http://t.co/lKc5FDGTPT"], "id": "615545302041231360", "created_at": "2015-06-29T15:40:10.000Z"}
-{"text": ["$", "WDAY", "long", "radar"], "id": "615519067747696641", "created_at": "2015-06-29T13:55:56.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/NDMUSXPexM", "$", "WDAY", "Earnings", "are", "Fading", ".", "http://t.co/Hdi0ZP46UX"], "id": "615481805802582017", "created_at": "2015-06-29T11:27:52.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/PHEyQGIvAQ", "$", "WDAY", "Cash", "from", "Operations", "is", "Increasing", ".", "http://t.co/pKf1EUfWGq"], "id": "615480800381800448", "created_at": "2015-06-29T11:23:52.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/yyZVDqcPbV", "$", "WDAY", "Research", "and", "Development", "is", "Accelerating", ".", "http://t.co/p34L6D4XMS"], "id": "615467693022392320", "created_at": "2015-06-29T10:31:47.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/SRCZoL4PQX", "$", "WDAY", "Revenue", "is", "Growing", ".", "http://t.co/mY9T4apc15"], "id": "615428013220478976", "created_at": "2015-06-29T07:54:07.000Z"}
-{"text": ["SWRF", "Swordfish", "Financial", "Inc", ".", "Ask", "Size", "http://t.co/6cP4WmfE9b", "$", "SWRF", "$", "DUST", "$", "WDAY", "$", "XLF", "#SWRF", "#finance", "#finance"], "id": "615427151332913153", "created_at": "2015-06-29T07:50:41.000Z"}
-{"text": ["HZNP", "Horizon", "Pharma", "plc", "Stock", "Message", "Board", "http://t.co/RM60nvJNxl", "$", "HZNP", "$", "XLF", "$", "WDAY", "$", "FXI", "#HZNP", "#finance", "#investing"], "id": "615425955931164672", "created_at": "2015-06-29T07:45:56.000Z"}
-{"text": ["EDC", "Direxion", "Daily", "Emerging", "Markets", "Bull", "3x", "Shares", "P", "/", "E", "Ratio", "http://t.co/X45SoQbouv", "$", "EDC", "$", "ILNS", "$", "WDAY", "$", "DIA", "#EDC", "#stockmarket", "#stocks"], "id": "615423940668698624", "created_at": "2015-06-29T07:37:56.000Z"}
-{"text": ["http://t.co/JsMGq5yuuU", "Verified", "$", "34.16", "loss", "in", "$", "WDAY", "."], "id": "615343906595565568", "created_at": "2015-06-29T02:19:54.000Z"}
+{"text": ["rt", "AT_USER", ":", "proofpoint", ":", "answering", "a", "question", "on", "core", "profitability", "URL", "$", "now", "$", "wday", "$", "pfpt"], "id": "615583266947629056", "created_at": "2015-06-29T18:11:02.000Z"}
+{"text": ["proofpoint", ":", "answering", "a", "question", "on", "core", "profitability", "URL", "$", "now", "$", "wday", "$", "pfpt"], "id": "615580440280195073", "created_at": "2015-06-29T17:59:48.000Z"}
+{"text": ["$", "wday", "rectangle", "channel", "breakdown", "URL"], "id": "615555815194267648", "created_at": "2015-06-29T16:21:57.000Z"}
+{"text": ["$", "wday", "trade", "card", "->", "URL", "URL"], "id": "615545302041231360", "created_at": "2015-06-29T15:40:10.000Z"}
+{"text": ["$", "wday", "long", "radar"], "id": "615519067747696641", "created_at": "2015-06-29T13:55:56.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "earnings", "are", "fading", ".", "URL"], "id": "615481805802582017", "created_at": "2015-06-29T11:27:52.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "cash", "from", "operations", "is", "increasing", ".", "URL"], "id": "615480800381800448", "created_at": "2015-06-29T11:23:52.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "research", "and", "development", "is", "accelerating", ".", "URL"], "id": "615467693022392320", "created_at": "2015-06-29T10:31:47.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "revenue", "is", "growing", ".", "URL"], "id": "615428013220478976", "created_at": "2015-06-29T07:54:07.000Z"}
+{"text": ["swrf", "swordfish", "financial", "inc", ".", "ask", "size", "URL", "$", "swrf", "$", "dust", "$", "wday", "$", "xlf", "#swrf", "#finance", "#finance"], "id": "615427151332913153", "created_at": "2015-06-29T07:50:41.000Z"}
+{"text": ["hznp", "horizon", "pharma", "plc", "stock", "message", "board", "URL", "$", "hznp", "$", "xlf", "$", "wday", "$", "fxi", "#hznp", "#finance", "#investing"], "id": "615425955931164672", "created_at": "2015-06-29T07:45:56.000Z"}
+{"text": ["edc", "direxion", "daily", "emerging", "markets", "bull", "3x", "shares", "p", "/", "e", "ratio", "URL", "$", "edc", "$", "ilns", "$", "wday", "$", "dia", "#edc", "#stockmarket", "#stocks"], "id": "615423940668698624", "created_at": "2015-06-29T07:37:56.000Z"}
+{"text": ["URL", "verified", "$", "34.16", "loss", "in", "$", "wday", "."], "id": "615343906595565568", "created_at": "2015-06-29T02:19:54.000Z"}

@@ -1,2 +1,2 @@
-{"text": ["RT", "@CML_VisualFeed", ":", "$", "CHKP", "Trade", "Card", "->", "http://t.co/bIBpKBe3Kf", "http://t.co/Qyrbtrobnm"], "id": "612654462826512384", "created_at": "2015-06-21T16:13:01.000Z"}
-{"text": ["$", "CHKP", "Trade", "Card", "->", "http://t.co/bIBpKBe3Kf", "http://t.co/Qyrbtrobnm"], "id": "612646045546209280", "created_at": "2015-06-21T15:39:34.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "chkp", "trade", "card", "->", "URL", "URL"], "id": "612654462826512384", "created_at": "2015-06-21T16:13:01.000Z"}
+{"text": ["$", "chkp", "trade", "card", "->", "URL", "URL"], "id": "612646045546209280", "created_at": "2015-06-21T15:39:34.000Z"}

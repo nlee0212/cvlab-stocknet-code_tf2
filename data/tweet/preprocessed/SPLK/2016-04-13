@@ -1,8 +1,8 @@
-{"text": ["$", "SPLK", "47.5", "Puts", "BUYING", "Activity", "expiring", "on", "22nd", "Apr", ",", "Vol", "710", "@", "IntermarketSweep"], "id": "720337566545887232", "created_at": "2016-04-13T19:47:13.000Z"}
-{"text": ["$", "SPLK", "#uptrend", "continuation", "detected", "around", "10:00", "AM", ",", "Apr", "13", "EDT", ";", "use", "48.64", ",", "48.10", "as", "stop", "#bullish"], "id": "720326242512187392", "created_at": "2016-04-13T19:02:13.000Z"}
-{"text": ["Vetr", "Inc", ".", "Upgrades", "#Splunk", "Inc", "to", "\"", "Hold", "\"", ".", "Read", "more", ":", "https://t.co/rV9d5dBdjF", "$", "SPLK"], "id": "720315582659186690", "created_at": "2016-04-13T18:19:52.000Z"}
-{"text": ["Vetr", "Inc", ".", "Upgrades", "Splunk", "Inc", "$", "SPLK", "to", "\u201c", "Hold", "\u201d", "https://t.co/vJJEuFpINv"], "id": "720280856384970752", "created_at": "2016-04-13T16:01:52.000Z"}
-{"text": ["Splunk", "Inc", "$", "SPLK", "Stock", "Price", "Down", "2.1", "%", "https://t.co/bUpuZ0IJ9a"], "id": "720252888530857984", "created_at": "2016-04-13T14:10:44.000Z"}
-{"text": ["Splunk", "Inc", "$", "SPLK", "Stock", "Price", "Down", "2.1", "%", "https://t.co/MClTey7Hy0"], "id": "720252480500736000", "created_at": "2016-04-13T14:09:07.000Z"}
-{"text": ["Splunk", "Inc", "$", "SPLK", "Shares", "Down", "2.1", "%", "https://t.co/XyKZWhmKip"], "id": "720066651845181440", "created_at": "2016-04-13T01:50:42.000Z"}
-{"text": ["Splunk", "Inc", "$", "SPLK", "Shares", "Down", "2.1", "%", "https://t.co/77DwjSey9e"], "id": "720066378477223941", "created_at": "2016-04-13T01:49:37.000Z"}
+{"text": ["$", "splk", "47.5", "puts", "buying", "activity", "expiring", "on", "22nd", "apr", ",", "vol", "710", "@", "intermarketsweep"], "id": "720337566545887232", "created_at": "2016-04-13T19:47:13.000Z"}
+{"text": ["$", "splk", "#uptrend", "continuation", "detected", "around", "10:00", "am", ",", "apr", "13", "edt", ";", "use", "48.64", ",", "48.10", "as", "stop", "#bullish"], "id": "720326242512187392", "created_at": "2016-04-13T19:02:13.000Z"}
+{"text": ["vetr", "inc", ".", "upgrades", "#splunk", "inc", "to", "\"", "hold", "\"", ".", "read", "more", ":", "URL", "$", "splk"], "id": "720315582659186690", "created_at": "2016-04-13T18:19:52.000Z"}
+{"text": ["vetr", "inc", ".", "upgrades", "splunk", "inc", "$", "splk", "to", "\u201c", "hold", "\u201d", "URL"], "id": "720280856384970752", "created_at": "2016-04-13T16:01:52.000Z"}
+{"text": ["splunk", "inc", "$", "splk", "stock", "price", "down", "2.1", "%", "URL"], "id": "720252888530857984", "created_at": "2016-04-13T14:10:44.000Z"}
+{"text": ["splunk", "inc", "$", "splk", "stock", "price", "down", "2.1", "%", "URL"], "id": "720252480500736000", "created_at": "2016-04-13T14:09:07.000Z"}
+{"text": ["splunk", "inc", "$", "splk", "shares", "down", "2.1", "%", "URL"], "id": "720066651845181440", "created_at": "2016-04-13T01:50:42.000Z"}
+{"text": ["splunk", "inc", "$", "splk", "shares", "down", "2.1", "%", "URL"], "id": "720066378477223941", "created_at": "2016-04-13T01:49:37.000Z"}

@@ -1,16 +1,16 @@
-{"text": ["$", "WDAY", "how", "we", "scored", "$", "2,166", "profits", "in", "30", "minutes", "http://t.co/CZ3k0dYL9i"], "id": "637752417619083264", "created_at": "2015-08-29T22:23:19.000Z"}
-{"text": ["Workday", "Price", "Target", "Cut", "to", "$", "83.00", "$", "WDAY", "http://t.co/pt8bRXMBAi"], "id": "637600565984366592", "created_at": "2015-08-29T12:19:55.000Z"}
-{"text": ["Citigroup", "Inc", ".", "Upgrades", "Workday", "to", "\u201c", "Buy", "\u201d", "$", "WDAY", "http://t.co/NWHlwhG48B"], "id": "637600564440866816", "created_at": "2015-08-29T12:19:55.000Z"}
-{"text": ["Workday", "Price", "Target", "Cut", "to", "$", "92.00", "$", "WDAY", "http://t.co/YFqUKIrlRZ"], "id": "637600563035787264", "created_at": "2015-08-29T12:19:54.000Z"}
-{"text": ["Workday", "PT", "Lowered", "to", "$", "66.00", "$", "WDAY", "http://t.co/ewHIRq9F9G"], "id": "637600561341288448", "created_at": "2015-08-29T12:19:54.000Z"}
-{"text": ["Workday", "Price", "Target", "Cut", "to", "$", "83.00", "$", "WDAY", "http://t.co/w0w48tpoAw"], "id": "637600559630020608", "created_at": "2015-08-29T12:19:54.000Z"}
-{"text": ["Workday", "PT", "Lowered", "to", "$", "70.00", "$", "WDAY", "http://t.co/9PXbF7DHzY"], "id": "637600557985828865", "created_at": "2015-08-29T12:19:53.000Z"}
-{"text": ["Workday", "PT", "Lowered", "to", "$", "82.00", "$", "WDAY", "http://t.co/sg8SZEJ2aV"], "id": "637600556727595008", "created_at": "2015-08-29T12:19:53.000Z"}
-{"text": ["Workday", "Price", "Target", "Cut", "to", "$", "98.00", "$", "WDAY", "http://t.co/QabPCvBzUA"], "id": "637600555502804993", "created_at": "2015-08-29T12:19:53.000Z"}
-{"text": ["Workday", "Stock", "Rating", "Reaffirmed", "by", "Brean", "Capital", "$", "WDAY", "http://t.co/H5oLy7cZDH"], "id": "637600553967689729", "created_at": "2015-08-29T12:19:52.000Z"}
-{"text": ["Canaccord", "Genuity", "Reiterates", "Buy", "Rating", "for", "Workday", "$", "WDAY", "http://t.co/lEcixYqh0h"], "id": "637600552692621312", "created_at": "2015-08-29T12:19:52.000Z"}
-{"text": ["Workday", "Given", "\u201c", "Neutral", "\u201d", "Rating", "at", "Nomura", "$", "WDAY", "http://t.co/P5sok4pfXx"], "id": "637570320375914496", "created_at": "2015-08-29T10:19:44.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/PHEyQGIvAQ", "$", "WDAY", "Cash", "from", "Operations", "is", "Increasing", ".", "http://t.co/C4smPieIR6"], "id": "637445459745726464", "created_at": "2015-08-29T02:03:35.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/SRCZoL4PQX", "$", "WDAY", "Revenue", "is", "Increasing", ".", "http://t.co/FDm5PWgVOJ"], "id": "637434807505432576", "created_at": "2015-08-29T01:21:15.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/aEvV9xkqGo", "$", "WDAY", "Return", "on", "Equity", "is", "Fading", ".", "http://t.co/rG0ekG5lyG"], "id": "637432828150480896", "created_at": "2015-08-29T01:13:23.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/NDMUSXPexM", "$", "WDAY", "Earnings", "are", "Deteriorating", ".", "http://t.co/W7LQSXszHh"], "id": "637427337068331009", "created_at": "2015-08-29T00:51:34.000Z"}
+{"text": ["$", "wday", "how", "we", "scored", "$", "2,166", "profits", "in", "30", "minutes", "URL"], "id": "637752417619083264", "created_at": "2015-08-29T22:23:19.000Z"}
+{"text": ["workday", "price", "target", "cut", "to", "$", "83.00", "$", "wday", "URL"], "id": "637600565984366592", "created_at": "2015-08-29T12:19:55.000Z"}
+{"text": ["citigroup", "inc", ".", "upgrades", "workday", "to", "\u201c", "buy", "\u201d", "$", "wday", "URL"], "id": "637600564440866816", "created_at": "2015-08-29T12:19:55.000Z"}
+{"text": ["workday", "price", "target", "cut", "to", "$", "92.00", "$", "wday", "URL"], "id": "637600563035787264", "created_at": "2015-08-29T12:19:54.000Z"}
+{"text": ["workday", "pt", "lowered", "to", "$", "66.00", "$", "wday", "URL"], "id": "637600561341288448", "created_at": "2015-08-29T12:19:54.000Z"}
+{"text": ["workday", "price", "target", "cut", "to", "$", "83.00", "$", "wday", "URL"], "id": "637600559630020608", "created_at": "2015-08-29T12:19:54.000Z"}
+{"text": ["workday", "pt", "lowered", "to", "$", "70.00", "$", "wday", "URL"], "id": "637600557985828865", "created_at": "2015-08-29T12:19:53.000Z"}
+{"text": ["workday", "pt", "lowered", "to", "$", "82.00", "$", "wday", "URL"], "id": "637600556727595008", "created_at": "2015-08-29T12:19:53.000Z"}
+{"text": ["workday", "price", "target", "cut", "to", "$", "98.00", "$", "wday", "URL"], "id": "637600555502804993", "created_at": "2015-08-29T12:19:53.000Z"}
+{"text": ["workday", "stock", "rating", "reaffirmed", "by", "brean", "capital", "$", "wday", "URL"], "id": "637600553967689729", "created_at": "2015-08-29T12:19:52.000Z"}
+{"text": ["canaccord", "genuity", "reiterates", "buy", "rating", "for", "workday", "$", "wday", "URL"], "id": "637600552692621312", "created_at": "2015-08-29T12:19:52.000Z"}
+{"text": ["workday", "given", "\u201c", "neutral", "\u201d", "rating", "at", "nomura", "$", "wday", "URL"], "id": "637570320375914496", "created_at": "2015-08-29T10:19:44.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "cash", "from", "operations", "is", "increasing", ".", "URL"], "id": "637445459745726464", "created_at": "2015-08-29T02:03:35.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "revenue", "is", "increasing", ".", "URL"], "id": "637434807505432576", "created_at": "2015-08-29T01:21:15.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "return", "on", "equity", "is", "fading", ".", "URL"], "id": "637432828150480896", "created_at": "2015-08-29T01:13:23.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "wday", "earnings", "are", "deteriorating", ".", "URL"], "id": "637427337068331009", "created_at": "2015-08-29T00:51:34.000Z"}

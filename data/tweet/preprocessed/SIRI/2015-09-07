@@ -1,8 +1,8 @@
-{"text": ["Interactive", "Chart", "->", "http://t.co/HM0AOFODTh", "$", "SIRI", "Return", "on", "Equity", "is", "Increasing", ".", "http://t.co/yDyQlcRVFy"], "id": "641014481640755200", "created_at": "2015-09-07T22:25:36.000Z"}
-{"text": ["http://t.co/PKklu5qynA", "is", "another", "black", "hole", "for", "$", "siri", "service", "@siriusxm"], "id": "641008878923022336", "created_at": "2015-09-07T22:03:20.000Z"}
-{"text": ["Intraday", "Movers", ":", "http://t.co/uOWMjvwAqs", "$", "SIRI", "$", "VNCE", "$", "CBS"], "id": "640926045814714368", "created_at": "2015-09-07T16:34:11.000Z"}
-{"text": ["Volume", "Alert", "-", "SIRI", "3.78", "Sirius", "XM", "Radio", "Inc", "$", "SIRI", "Hit", "a", "high", "today", "of", "3.81", "Closing", "the", "day", "09/04", "/", "15", "at", "3.78", "-", "http://t.co/4F5TZw40qJ"], "id": "640900848906846208", "created_at": "2015-09-07T14:54:04.000Z"}
-{"text": ["Services", "Sector", "Update", ":", "$", "SIRI", "$", "FISV", "$", "RCL", "$", "TV", "$", "MAR", "http://t.co/KIf5uBc8r3"], "id": "640887118634463233", "created_at": "2015-09-07T13:59:30.000Z"}
-{"text": ["SIRI", "Top", "news", "-", "Sep", "7th", ",", "2015", "$", "SIRI", "http://t.co/1QBlGmxQjr"], "id": "640873753279377409", "created_at": "2015-09-07T13:06:24.000Z"}
-{"text": ["RT", "@BluegrassCap", ":", "$", "AAPL", "CarPlay", "review", ",", "$", "SIRI", ",", "connected", "vehicle", "via", "BI", "http://t.co/SOsKdoXvlw"], "id": "640731650763137024", "created_at": "2015-09-07T03:41:44.000Z"}
-{"text": ["$", "AAPL", "CarPlay", "review", ",", "$", "SIRI", ",", "connected", "vehicle", "via", "BI", "http://t.co/SOsKdoXvlw"], "id": "640719436606013440", "created_at": "2015-09-07T02:53:12.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "siri", "return", "on", "equity", "is", "increasing", ".", "URL"], "id": "641014481640755200", "created_at": "2015-09-07T22:25:36.000Z"}
+{"text": ["URL", "is", "another", "black", "hole", "for", "$", "siri", "service", "AT_USER"], "id": "641008878923022336", "created_at": "2015-09-07T22:03:20.000Z"}
+{"text": ["intraday", "movers", ":", "URL", "$", "siri", "$", "vnce", "$", "cbs"], "id": "640926045814714368", "created_at": "2015-09-07T16:34:11.000Z"}
+{"text": ["volume", "alert", "-", "siri", "3.78", "sirius", "xm", "radio", "inc", "$", "siri", "hit", "a", "high", "today", "of", "3.81", "closing", "the", "day", "09/04", "/", "15", "at", "3.78", "-", "URL"], "id": "640900848906846208", "created_at": "2015-09-07T14:54:04.000Z"}
+{"text": ["services", "sector", "update", ":", "$", "siri", "$", "fisv", "$", "rcl", "$", "tv", "$", "mar", "URL"], "id": "640887118634463233", "created_at": "2015-09-07T13:59:30.000Z"}
+{"text": ["siri", "top", "news", "-", "sep", "7th", ",", "2015", "$", "siri", "URL"], "id": "640873753279377409", "created_at": "2015-09-07T13:06:24.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "aapl", "carplay", "review", ",", "$", "siri", ",", "connected", "vehicle", "via", "bi", "URL"], "id": "640731650763137024", "created_at": "2015-09-07T03:41:44.000Z"}
+{"text": ["$", "aapl", "carplay", "review", ",", "$", "siri", ",", "connected", "vehicle", "via", "bi", "URL"], "id": "640719436606013440", "created_at": "2015-09-07T02:53:12.000Z"}

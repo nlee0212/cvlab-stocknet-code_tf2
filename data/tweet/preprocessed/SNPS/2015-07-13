@@ -1,6 +1,6 @@
-{"text": ["RT", "@AmyAtrade", ":", "$", "SNPS", "Watching", "above", "51.00", "http://t.co/DW8HKY4GyJ"], "id": "620675597400977408", "created_at": "2015-07-13T19:26:08.000Z"}
-{"text": ["RT", "@AmyAtrade", ":", "$", "SNPS", "Watching", "above", "51.00", "http://t.co/DW8HKY4GyJ"], "id": "620655505690636288", "created_at": "2015-07-13T18:06:18.000Z"}
-{"text": ["$", "SNPS", "Watching", "above", "51.00", "http://t.co/DW8HKY4GyJ"], "id": "620655393920847872", "created_at": "2015-07-13T18:05:51.000Z"}
-{"text": ["RT", "@Emylers", ":", "SNPS", "Synopsys", ",", "Inc", ".", "Short", "Sales", "http://t.co/VECs6qhFhu", "$", "SNPS", "$", "PGVFX", "$", "TNA", "$", "WMT", "#SNPS", "#tradeideas", "#invest"], "id": "620652318699188224", "created_at": "2015-07-13T17:53:38.000Z"}
-{"text": ["SNPS", "Synopsys", ",", "Inc", ".", "Open", "http://t.co/6FaNltNbJs", "$", "SNPS", "$", "DWTI", "$", "VNM", "$", "TBT", "#SNPS", "#stocks", "#pennystocks"], "id": "620393466518900736", "created_at": "2015-07-13T00:45:03.000Z"}
-{"text": ["HCA", "HCA", "Holdings", "Inc", ".", "Company", "Info", "http://t.co/fxzdLZHWSO", "$", "HCA", "$", "SNPS", "$", "LNKD", "$", "BIDU", "#HCA", "#invest", "#finance"], "id": "620391703531294720", "created_at": "2015-07-13T00:38:03.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "snps", "watching", "above", "51.00", "URL"], "id": "620675597400977408", "created_at": "2015-07-13T19:26:08.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "snps", "watching", "above", "51.00", "URL"], "id": "620655505690636288", "created_at": "2015-07-13T18:06:18.000Z"}
+{"text": ["$", "snps", "watching", "above", "51.00", "URL"], "id": "620655393920847872", "created_at": "2015-07-13T18:05:51.000Z"}
+{"text": ["rt", "AT_USER", ":", "snps", "synopsys", ",", "inc", ".", "short", "sales", "URL", "$", "snps", "$", "pgvfx", "$", "tna", "$", "wmt", "#snps", "#tradeideas", "#invest"], "id": "620652318699188224", "created_at": "2015-07-13T17:53:38.000Z"}
+{"text": ["snps", "synopsys", ",", "inc", ".", "open", "URL", "$", "snps", "$", "dwti", "$", "vnm", "$", "tbt", "#snps", "#stocks", "#pennystocks"], "id": "620393466518900736", "created_at": "2015-07-13T00:45:03.000Z"}
+{"text": ["hca", "hca", "holdings", "inc", ".", "company", "info", "URL", "$", "hca", "$", "snps", "$", "lnkd", "$", "bidu", "#hca", "#invest", "#finance"], "id": "620391703531294720", "created_at": "2015-07-13T00:38:03.000Z"}

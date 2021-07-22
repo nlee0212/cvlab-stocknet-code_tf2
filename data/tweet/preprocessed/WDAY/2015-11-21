@@ -1,10 +1,10 @@
-{"text": ["Workday", "Given", "Buy", "Rating", "at", "Barclays", "$", "WDAY", "https://t.co/XkIEUF4giA"], "id": "668156437638553600", "created_at": "2015-11-21T19:58:03.000Z"}
-{"text": ["Workday", "Earns", "Buy", "Rating", "from", "Barclays", "$", "WDAY", "https://t.co/VGrcUifxyG"], "id": "668151980175532032", "created_at": "2015-11-21T19:40:20.000Z"}
-{"text": ["$", "WDAY", "-", "Barclays", "Reiterates", "Buy", "Rating", "for", "Workday", "#WDAY", "https://t.co/8VfPUQq0XM"], "id": "668151717788295168", "created_at": "2015-11-21T19:39:17.000Z"}
-{"text": ["Workday", "Rating", "Reiterated", "by", "Barclays", "$", "WDAY", "https://t.co/xUSZjbYEyA"], "id": "668149473923743744", "created_at": "2015-11-21T19:30:22.000Z"}
-{"text": ["Workday", "\u2019", "s", "Buy", "Rating", "Reaffirmed", "at", "Barclays", "$", "WDAY", "https://t.co/h2z8TDQd2J"], "id": "668148795956404224", "created_at": "2015-11-21T19:27:41.000Z"}
-{"text": ["Workday", "\u2019", "s", "Buy", "Rating", "Reaffirmed", "at", "Barclays", "$", "WDAY", "https://t.co/YLGTwW2a5j"], "id": "668148314366431232", "created_at": "2015-11-21T19:25:46.000Z"}
-{"text": ["Workday's", "buy", "rating", "reiterated", "at", "Barclays", ".", "https://t.co/HuDu2QAkXZ", "$", "WDAY", "#WDAY"], "id": "668146310290251776", "created_at": "2015-11-21T19:17:48.000Z"}
-{"text": ["Workday", "\u2019", "s", "Buy", "Rating", "Reaffirmed", "at", "Barclays", "$", "WDAY", "https://t.co/kNECrPpNA9"], "id": "668145833108484097", "created_at": "2015-11-21T19:15:54.000Z"}
-{"text": ["Workday", ",", "Inc", ".", "Reiterated", "Rating", "by", "Barclays", "Capital", "(", "Ranked", "18th", ")", "to", "Buy", "$", "WDAY", "#WDAY", "https://t.co/bC6TRsWjsh"], "id": "668145623967772672", "created_at": "2015-11-21T19:15:04.000Z"}
-{"text": ["Morning", "Call", "For", "November", "20", ",", "2015", "$", "CAB", "$", "CNC", "$", "GPS", "$", "NKE", "$", "WSM", "$", "ADSK", "$", "INTU", "$", "ROST", "$", "WDAY", "$", "NMBL", "$", "ZOES", "https://t.co/N3TaX109ao"], "id": "667887414292123649", "created_at": "2015-11-21T02:09:02.000Z"}
+{"text": ["workday", "given", "buy", "rating", "at", "barclays", "$", "wday", "URL"], "id": "668156437638553600", "created_at": "2015-11-21T19:58:03.000Z"}
+{"text": ["workday", "earns", "buy", "rating", "from", "barclays", "$", "wday", "URL"], "id": "668151980175532032", "created_at": "2015-11-21T19:40:20.000Z"}
+{"text": ["$", "wday", "-", "barclays", "reiterates", "buy", "rating", "for", "workday", "#wday", "URL"], "id": "668151717788295168", "created_at": "2015-11-21T19:39:17.000Z"}
+{"text": ["workday", "rating", "reiterated", "by", "barclays", "$", "wday", "URL"], "id": "668149473923743744", "created_at": "2015-11-21T19:30:22.000Z"}
+{"text": ["workday", "\u2019", "s", "buy", "rating", "reaffirmed", "at", "barclays", "$", "wday", "URL"], "id": "668148795956404224", "created_at": "2015-11-21T19:27:41.000Z"}
+{"text": ["workday", "\u2019", "s", "buy", "rating", "reaffirmed", "at", "barclays", "$", "wday", "URL"], "id": "668148314366431232", "created_at": "2015-11-21T19:25:46.000Z"}
+{"text": ["workday's", "buy", "rating", "reiterated", "at", "barclays", ".", "URL", "$", "wday", "#wday"], "id": "668146310290251776", "created_at": "2015-11-21T19:17:48.000Z"}
+{"text": ["workday", "\u2019", "s", "buy", "rating", "reaffirmed", "at", "barclays", "$", "wday", "URL"], "id": "668145833108484097", "created_at": "2015-11-21T19:15:54.000Z"}
+{"text": ["workday", ",", "inc", ".", "reiterated", "rating", "by", "barclays", "capital", "(", "ranked", "18th", ")", "to", "buy", "$", "wday", "#wday", "URL"], "id": "668145623967772672", "created_at": "2015-11-21T19:15:04.000Z"}
+{"text": ["morning", "call", "for", "november", "20", ",", "2015", "$", "cab", "$", "cnc", "$", "gps", "$", "nke", "$", "wsm", "$", "adsk", "$", "intu", "$", "rost", "$", "wday", "$", "nmbl", "$", "zoes", "URL"], "id": "667887414292123649", "created_at": "2015-11-21T02:09:02.000Z"}

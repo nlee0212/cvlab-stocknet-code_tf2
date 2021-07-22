@@ -1,2 +1,2 @@
-{"text": ["RT", "@SpeedyCalls", ":", "$", "INCY", "90", "Calls", "BUYING", "Activity", "expiring", "on", "21st", "Oct", ",", "Vol", "598"], "id": "775749113660964864", "created_at": "2016-09-13T17:32:56.000Z"}
-{"text": ["$", "INCY", "90", "Calls", "BUYING", "Activity", "expiring", "on", "21st", "Oct", ",", "Vol", "598"], "id": "775747085152948224", "created_at": "2016-09-13T17:24:52.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "incy", "90", "calls", "buying", "activity", "expiring", "on", "21st", "oct", ",", "vol", "598"], "id": "775749113660964864", "created_at": "2016-09-13T17:32:56.000Z"}
+{"text": ["$", "incy", "90", "calls", "buying", "activity", "expiring", "on", "21st", "oct", ",", "vol", "598"], "id": "775747085152948224", "created_at": "2016-09-13T17:24:52.000Z"}

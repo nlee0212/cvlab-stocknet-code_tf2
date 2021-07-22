@@ -1,4 +1,4 @@
-{"text": ["$", "MAR", "2015082", "1", "Block", "Trade", ":", "188", "trade", ".", "~", "$", "1.5", "MM", "notional", "value", "."], "id": "623508485863399425", "created_at": "2015-07-21T15:03:01.000Z"}
-{"text": ["Pre-Market", "News", "Buzz", "on", ":", "http://t.co/vNgAILW2ip", "$", "QVCA", "$", "AST", "$", "THC", "$", "MAR"], "id": "623489581665554432", "created_at": "2015-07-21T13:47:54.000Z"}
-{"text": ["Interactive", "Chart", "->", "http://t.co/UlwioFbrfP", "$", "MAR", "Revenue", "and", "Earnings", "are", "Increasing", ".", "http://t.co/gyKFJzqPao"], "id": "623487389260890112", "created_at": "2015-07-21T13:39:12.000Z"}
-{"text": ["$", "MAR", "Canaccord", "Genuity", "Rating", "Update", "on", "Marriott", "International", "(", "NASDAQ", ":", "MAR", ")", "http://t.co/sOafi0R9jx"], "id": "623472888423784448", "created_at": "2015-07-21T12:41:34.000Z"}
+{"text": ["$", "mar", "2015082", "1", "block", "trade", ":", "188", "trade", ".", "~", "$", "1.5", "mm", "notional", "value", "."], "id": "623508485863399425", "created_at": "2015-07-21T15:03:01.000Z"}
+{"text": ["pre-market", "news", "buzz", "on", ":", "URL", "$", "qvca", "$", "ast", "$", "thc", "$", "mar"], "id": "623489581665554432", "created_at": "2015-07-21T13:47:54.000Z"}
+{"text": ["interactive", "chart", "->", "URL", "$", "mar", "revenue", "and", "earnings", "are", "increasing", ".", "URL"], "id": "623487389260890112", "created_at": "2015-07-21T13:39:12.000Z"}
+{"text": ["$", "mar", "canaccord", "genuity", "rating", "update", "on", "marriott", "international", "(", "nasdaq", ":", "mar", ")", "URL"], "id": "623472888423784448", "created_at": "2015-07-21T12:41:34.000Z"}

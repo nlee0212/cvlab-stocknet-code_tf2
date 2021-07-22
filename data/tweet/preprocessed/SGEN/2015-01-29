@@ -1,2 +1,2 @@
-{"text": ["$", "SGEN", "Phase", "2", "trial", "w", "/", "est", "Jan", "completion", "date", "NCT", "01508312", ":", "http://t.co/z5ESQ45vxO", "Trial", "Tracker", ":", "https://t.co/aR7q5p17rr"], "id": "560815876417413120", "created_at": "2015-01-29T15:04:59.000Z"}
-{"text": ["Seattle", "Genetics", "$", "SGEN", "Showing", "Resistance", "Near", "$", "34.05", "(", "http://t.co/2Nqa3PbpcN", ")"], "id": "560797829552406528", "created_at": "2015-01-29T13:53:16.000Z"}
+{"text": ["$", "sgen", "phase", "2", "trial", "w", "/", "est", "jan", "completion", "date", "nct", "01508312", ":", "URL", "trial", "tracker", ":", "URL"], "id": "560815876417413120", "created_at": "2015-01-29T15:04:59.000Z"}
+{"text": ["seattle", "genetics", "$", "sgen", "showing", "resistance", "near", "$", "34.05", "(", "URL", ")"], "id": "560797829552406528", "created_at": "2015-01-29T13:53:16.000Z"}

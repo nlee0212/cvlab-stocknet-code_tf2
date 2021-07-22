@@ -1,4 +1,4 @@
-{"text": ["jim", "50", ":", "ASML", "Gapped", "up", "+0.04", "$", "ASML", "Last", "Price", "94.75", "Day", "https://t.co/Njc5bzhYJU"], "id": "705785542407909377", "created_at": "2016-03-04T16:02:40.000Z"}
-{"text": ["jim", "50", ":", "ASML", "Gapped", "up", "+0.04", "$", "ASML", "Last", "Price", "94.75", "Day", "https://t.co/q9Ob26gdAo"], "id": "705785530114379780", "created_at": "2016-03-04T16:02:37.000Z"}
-{"text": ["ASML", "Gapped", "up", "+0.04", "$", "ASML", "Last", "Price", "94.75", "Day", "High", "94.75", "Day", "Low", "94.75", "Change", "+0.05", "Volume", "48,650", "Today", "68", "s", "https://t.co/Ffis3OJQd0"], "id": "705784629303889922", "created_at": "2016-03-04T15:59:03.000Z"}
-{"text": ["#FusionIQ", "NEW", "Positive", "Timing", "Signal", "on", "$", "ASML", "Today", "https://t.co/0Gnm55MKla", "Please", "Retweet", "#Signals"], "id": "705744645578498048", "created_at": "2016-03-04T13:20:10.000Z"}
+{"text": ["jim", "50", ":", "asml", "gapped", "up", "+0.04", "$", "asml", "last", "price", "94.75", "day", "URL"], "id": "705785542407909377", "created_at": "2016-03-04T16:02:40.000Z"}
+{"text": ["jim", "50", ":", "asml", "gapped", "up", "+0.04", "$", "asml", "last", "price", "94.75", "day", "URL"], "id": "705785530114379780", "created_at": "2016-03-04T16:02:37.000Z"}
+{"text": ["asml", "gapped", "up", "+0.04", "$", "asml", "last", "price", "94.75", "day", "high", "94.75", "day", "low", "94.75", "change", "+0.05", "volume", "48,650", "today", "68", "s", "URL"], "id": "705784629303889922", "created_at": "2016-03-04T15:59:03.000Z"}
+{"text": ["#fusioniq", "new", "positive", "timing", "signal", "on", "$", "asml", "today", "URL", "please", "retweet", "#signals"], "id": "705744645578498048", "created_at": "2016-03-04T13:20:10.000Z"}

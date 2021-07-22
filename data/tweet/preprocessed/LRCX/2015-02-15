@@ -1,5 +1,5 @@
-{"text": ["RT", "@tradingview", ":", "$", "LRCX", "-", "LCRX", "-", "https://t.co/WPaGMZKxUP"], "id": "566840351068282880", "created_at": "2015-02-15T06:04:05.000Z"}
-{"text": ["$", "LRCX", "-", "LCRX", "-", "https://t.co/WPaGMZKxUP"], "id": "566839328198770688", "created_at": "2015-02-15T06:00:01.000Z"}
-{"text": ["LCRX", "$", "LRCX", "http://t.co/8uVpyuGzaV"], "id": "566836877563416577", "created_at": "2015-02-15T05:50:17.000Z"}
-{"text": ["$", "LRCX", "Weekly", "https://t.co/ISsMPQ6mIt", "via", "http://t.co/xwjHFVSbOf"], "id": "566821941957246976", "created_at": "2015-02-15T04:50:56.000Z"}
-{"text": ["$", "LRCX", "Daily", "https://t.co/YnrAwNBjdG", "via", "http://t.co/xwjHFVSbOf"], "id": "566820990022193152", "created_at": "2015-02-15T04:47:09.000Z"}
+{"text": ["rt", "AT_USER", ":", "$", "lrcx", "-", "lcrx", "-", "URL"], "id": "566840351068282880", "created_at": "2015-02-15T06:04:05.000Z"}
+{"text": ["$", "lrcx", "-", "lcrx", "-", "URL"], "id": "566839328198770688", "created_at": "2015-02-15T06:00:01.000Z"}
+{"text": ["lcrx", "$", "lrcx", "URL"], "id": "566836877563416577", "created_at": "2015-02-15T05:50:17.000Z"}
+{"text": ["$", "lrcx", "weekly", "URL", "via", "URL"], "id": "566821941957246976", "created_at": "2015-02-15T04:50:56.000Z"}
+{"text": ["$", "lrcx", "daily", "URL", "via", "URL"], "id": "566820990022193152", "created_at": "2015-02-15T04:47:09.000Z"}

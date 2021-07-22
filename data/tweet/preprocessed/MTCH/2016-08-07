@@ -1,6 +1,6 @@
-{"text": ["#Match", "Before", "You", "Post", "That", "Old", "Photo", "\u2026", ".", "Read", "Blog", ":", "https://t.co/DUf5sLtyNK", "$", "MTCH"], "id": "762427519081381889", "created_at": "2016-08-07T23:17:40.000Z"}
-{"text": ["#Match", "Danielle", "&", "Daniel", ":", "One", "\"", "Like", "\"", "and", "the", "Rest", "was", "History", ".", "Read", "Blog", ":", "https://t.co/sHFW2o5oTg", "$", "MTCH"], "id": "762427363762110464", "created_at": "2016-08-07T23:17:03.000Z"}
-{"text": ["#Match", "Fill", "in", "Your", "Blanks", ".", "Read", "Blog", ":", "https://t.co/mi6pJG6H3K", "$", "MTCH"], "id": "762427208933650432", "created_at": "2016-08-07T23:16:26.000Z"}
-{"text": ["Brokerages", "Set", "Match", "Group", "Inc", ".", "$", "MTCH", "PT", "at", "$", "16.30", "https://t.co/JK9l5GjuAO"], "id": "762171861862084608", "created_at": "2016-08-07T06:21:46.000Z"}
-{"text": ["Brokerages", "Set", "Match", "Group", "Inc", ".", "$", "MTCH", "PT", "at", "$", "16.30", "https://t.co/y7CpPIpY5G"], "id": "762169608786894848", "created_at": "2016-08-07T06:12:49.000Z"}
-{"text": ["Brokerages", "Set", "Match", "Group", "Inc", ".", "$", "MTCH", "PT", "at", "$", "16.30", "https://t.co/OBroGSIXPS"], "id": "762169548225347585", "created_at": "2016-08-07T06:12:35.000Z"}
+{"text": ["#match", "before", "you", "post", "that", "old", "photo", "\u2026", ".", "read", "blog", ":", "URL", "$", "mtch"], "id": "762427519081381889", "created_at": "2016-08-07T23:17:40.000Z"}
+{"text": ["#match", "danielle", "&", "daniel", ":", "one", "\"", "like", "\"", "and", "the", "rest", "was", "history", ".", "read", "blog", ":", "URL", "$", "mtch"], "id": "762427363762110464", "created_at": "2016-08-07T23:17:03.000Z"}
+{"text": ["#match", "fill", "in", "your", "blanks", ".", "read", "blog", ":", "URL", "$", "mtch"], "id": "762427208933650432", "created_at": "2016-08-07T23:16:26.000Z"}
+{"text": ["brokerages", "set", "match", "group", "inc", ".", "$", "mtch", "pt", "at", "$", "16.30", "URL"], "id": "762171861862084608", "created_at": "2016-08-07T06:21:46.000Z"}
+{"text": ["brokerages", "set", "match", "group", "inc", ".", "$", "mtch", "pt", "at", "$", "16.30", "URL"], "id": "762169608786894848", "created_at": "2016-08-07T06:12:49.000Z"}
+{"text": ["brokerages", "set", "match", "group", "inc", ".", "$", "mtch", "pt", "at", "$", "16.30", "URL"], "id": "762169548225347585", "created_at": "2016-08-07T06:12:35.000Z"}

@@ -1,6 +1,6 @@
-{"text": ["CIBC", "Asset", "Management", "Inc", "Has", "$", "2,554", ",", "000", "Position", "in", "Analog", "Devices", "Inc", ".", "$", "ADI", "https://t.co/4TFIf0a4MD"], "id": "810181334303907840", "created_at": "2016-12-17T17:54:17.000Z"}
-{"text": ["CIBC", "Asset", "Management", "Inc", "Has", "$", "2,554", ",", "000", "Position", "in", "Analog", "Devices", "Inc", ".", "$", "ADI", "https://t.co/eUlEHciBEx"], "id": "810181102291812352", "created_at": "2016-12-17T17:53:21.000Z"}
-{"text": ["Analyst", "Activity", "\u2013", "Evercore", "ISI", "Reiterates", "Buy", "on", "Analog", "Devices", "(", "NASDAQ", ":", "ADI", ")", "https://t.co/FkbVI4K9h8", "$", "ADI"], "id": "810179115047272449", "created_at": "2016-12-17T17:45:28.000Z"}
-{"text": ["PGGM", "Investments", "Sells", "4,947", "Shares", "of", "Analog", "Devices", "Inc", ".", "$", "ADI", "https://t.co/TGWjc2x8ar"], "id": "810120745317793792", "created_at": "2016-12-17T13:53:31.000Z"}
-{"text": ["PGGM", "Investments", "Sells", "4,947", "Shares", "of", "Analog", "Devices", "Inc", ".", "$", "ADI", "https://t.co/nQNWoMD5kt"], "id": "810120283147399168", "created_at": "2016-12-17T13:51:41.000Z"}
-{"text": ["Analog", "Devices", "Inc", ".", "$", "ADI", "Short", "Interest", "Update", "https://t.co/k7n6klZWT4"], "id": "810103309591777282", "created_at": "2016-12-17T12:44:14.000Z"}
+{"text": ["cibc", "asset", "management", "inc", "has", "$", "2,554", ",", "000", "position", "in", "analog", "devices", "inc", ".", "$", "adi", "URL"], "id": "810181334303907840", "created_at": "2016-12-17T17:54:17.000Z"}
+{"text": ["cibc", "asset", "management", "inc", "has", "$", "2,554", ",", "000", "position", "in", "analog", "devices", "inc", ".", "$", "adi", "URL"], "id": "810181102291812352", "created_at": "2016-12-17T17:53:21.000Z"}
+{"text": ["analyst", "activity", "\u2013", "evercore", "isi", "reiterates", "buy", "on", "analog", "devices", "(", "nasdaq", ":", "adi", ")", "URL", "$", "adi"], "id": "810179115047272449", "created_at": "2016-12-17T17:45:28.000Z"}
+{"text": ["pggm", "investments", "sells", "4,947", "shares", "of", "analog", "devices", "inc", ".", "$", "adi", "URL"], "id": "810120745317793792", "created_at": "2016-12-17T13:53:31.000Z"}
+{"text": ["pggm", "investments", "sells", "4,947", "shares", "of", "analog", "devices", "inc", ".", "$", "adi", "URL"], "id": "810120283147399168", "created_at": "2016-12-17T13:51:41.000Z"}
+{"text": ["analog", "devices", "inc", ".", "$", "adi", "short", "interest", "update", "URL"], "id": "810103309591777282", "created_at": "2016-12-17T12:44:14.000Z"}

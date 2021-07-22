@@ -373,7 +373,7 @@ class DataPipe:
         vocab_id_dict = self.index_token(vocab, key='token')
         stock_id_dict = self.index_token(stock_symbols, key='token', type='stock')
         generators = [self.sample_gen_from_one_stock(vocab_id_dict, stock_id_dict, s, phase) for s in stock_symbols]
-        # logger.info('{0} Generators prepared...'.format(len(generators)))
+        logger.info('{0} Generators prepared...'.format(len(generators)))
 
         while True:
             # start_time = time.time()
@@ -415,7 +415,8 @@ class DataPipe:
                     if generators:
                         continue
                     else:
-                        raise StopIteration
+                        #raise StopIteration
+                        return
 
             batch_dict = {
                 # meta

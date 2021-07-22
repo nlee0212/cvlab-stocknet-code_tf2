@@ -1,8 +1,9 @@
 #!/usr/local/bin/python
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import numpy as np
 import math
 
+tf.disable_v2_behavior()
 
 def n_accurate(y, y_):
     """

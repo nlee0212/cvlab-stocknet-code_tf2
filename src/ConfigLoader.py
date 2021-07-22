@@ -28,7 +28,8 @@ class PathParser:
         self.vocab = os.path.join(self.res, config_path['vocab_tweet'])
 
 config_fp = os.path.join(os.path.dirname(__file__), 'config.yml')
-config = yaml.load(file(config_fp, 'r'))
+#config = yaml.load(file(config_fp, 'r'))
+config = yaml.load(open(config_fp, 'r'))
 config_model = config['model']
 
 dates = config['dates']

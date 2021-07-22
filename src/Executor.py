@@ -1,11 +1,12 @@
 #!/usr/local/bin/python
 import os
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import metrics as metrics
 import stat_logger as stat_logger
 from DataPipe import DataPipe
 from ConfigLoader import logger
 
+tf.disable_v2_behavior()
 
 class Executor:
 
@@ -70,7 +71,6 @@ class Executor:
         gen_loss_list = list()
         gen_size, gen_n_acc = 0.0, 0.0
         y_list, y_list_ = list(), list()
-
         for gen_batch_dict in generation_gen:
 
             feed_dict = {self.model.is_training_phase: False,
@@ -90,10 +90,8 @@ class Executor:
                          self.model.dropout_vmd_in: 0.0,
                          self.model.dropout_vmd: 0.0,
                          }
-
             gen_batch_y, gen_batch_y_, gen_batch_loss = sess.run([self.model.y_T, self.model.y_T_, self.model.loss],
                                                                  feed_dict=feed_dict)
-
             # gather
             y_list.append(gen_batch_y)
             y_list_.append(gen_batch_y_)
@@ -104,7 +102,7 @@ class Executor:
 
             batch_size = float(gen_batch_dict['batch_size'])
             gen_size += batch_size
-
+        
         results = metrics.eval_res(gen_n_acc, gen_size, gen_loss_list, y_list, y_list_)
         return results
 

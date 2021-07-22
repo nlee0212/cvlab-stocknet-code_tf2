@@ -1,13 +1,15 @@
 #!/usr/local/bin/python
 from __future__ import print_function
 import os
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import numpy as np
 import neural as neural
-import tensorflow.contrib.distributions as ds
-from tensorflow.contrib.layers import batch_norm
+import tensorflow.compat.v1.distributions as ds
+#from tensorflow.contrib.layers import batch_norm
+from tensorflow.keras.layers import BatchNormalization
 from ConfigLoader import logger, ss_size, vocab_size, config_model, path_parser
 
+tf.disable_v2_behavior()
 
 class Model:
 
@@ -40,7 +42,8 @@ class Model:
 
         self.weight_init = config_model['weight_init']
         uniform = True if self.weight_init == 'xavier-uniform' else False
-        self.initializer = tf.contrib.layers.xavier_initializer(uniform=uniform)
+        #self.initializer = tf.contrib.layers.xavier_initializer(uniform=uniform)
+        self.initializer = tf.keras.initializers.glorot_normal()
         self.bias_initializer = tf.constant_initializer(0.0, dtype=tf.float32)
 
         self.word_embed_type = config_model['word_embed_type']
@@ -172,7 +175,7 @@ class Model:
             out_f, out_b = out
             ss_indices = tf.reshape(daily_ss_index_vec, [-1, 1])
 
-            msg_ids = tf.constant(range(0, self.max_n_msgs), dtype=tf.int32, shape=[self.max_n_msgs, 1])  # [0, 1, 2, ...]
+            msg_ids = tf.constant(list(range(0, self.max_n_msgs)), dtype=tf.int32, shape=[self.max_n_msgs, 1])  # [0, 1, 2, ...]
             out_id = tf.concat([msg_ids, ss_indices], axis=1)
             # fw, bw and average
             mel_h_f, mel_h_b = tf.gather_nd(out_f, out_id), tf.gather_nd(out_b, out_id)
@@ -191,18 +194,18 @@ class Model:
         with tf.name_scope('mel'):
             with tf.variable_scope('mel_iter', reuse=tf.AUTO_REUSE):
                 if self.mel_cell_type == 'ln-lstm':
-                    mel_cell_f = tf.contrib.rnn.LayerNormBasicLSTMCell(self.mel_h_size)
-                    mel_cell_b = tf.contrib.rnn.LayerNormBasicLSTMCell(self.mel_h_size)
+                    mel_cell_f = tf.nn.rnn_cell.LayerNormBasicLSTMCell(self.mel_h_size)
+                    mel_cell_b = tf.nn.rnn_cell.LayerNormBasicLSTMCell(self.mel_h_size)
                 elif self.mel_cell_type == 'gru':
-                    mel_cell_f = tf.contrib.rnn.GRUCell(self.mel_h_size)
-                    mel_cell_b = tf.contrib.rnn.GRUCell(self.mel_h_size)
+                    mel_cell_f = tf.nn.rnn_cell.GRUCell(self.mel_h_size)
+                    mel_cell_b = tf.nn.rnn_cell.GRUCell(self.mel_h_size)
                 else:
-                    mel_cell_f = tf.contrib.rnn.BasicRNNCell(self.mel_h_size)
-                    mel_cell_b = tf.contrib.rnn.BasicRNNCell(self.mel_h_size)
+                    mel_cell_f = tf.nn.rnn_cell.BasicRNNCell(self.mel_h_size)
+                    mel_cell_b = tf.nn.rnn_cell.BasicRNNCell(self.mel_h_size)
 
-                mel_cell_f = tf.contrib.rnn.DropoutWrapper(mel_cell_f, output_keep_prob=1.0-self.dropout_mel)
-                mel_cell_b = tf.contrib.rnn.DropoutWrapper(mel_cell_b, output_keep_prob=1.0-self.dropout_mel)
-
+                mel_cell_f = tf.nn.rnn_cell.DropoutWrapper(mel_cell_f, output_keep_prob=1.0-self.dropout_mel)
+                mel_cell_b = tf.nn.rnn_cell.DropoutWrapper(mel_cell_b, output_keep_prob=1.0-self.dropout_mel)
+                
                 mel_init_f = mel_cell_f.zero_state([self.max_n_msgs], tf.float32)
                 mel_init_b = mel_cell_f.zero_state([self.max_n_msgs], tf.float32)
 
@@ -400,10 +403,10 @@ class Model:
                                                               name='mask_aux_trading_days')
 
                 if self.vmd_cell_type == 'ln-lstm':
-                    cell = tf.contrib.rnn.LayerNormBasicLSTMCell(self.h_size)
+                    cell = tf.nn.rnn_cell.LayerNormBasicLSTMCell(self.h_size)
                 else:
-                    cell = tf.contrib.rnn.GRUCell(self.h_size)
-                cell = tf.contrib.rnn.DropoutWrapper(cell, output_keep_prob=1.0-self.dropout_vmd)
+                    cell = tf.nn.rnn_cell.GRUCell(self.h_size)
+                cell = tf.nn.rnn_cell.DropoutWrapper(cell, output_keep_prob=1.0-self.dropout_vmd)
 
                 init_state = None
                 # calculate vmd_h, batch_size * max_n_days * vmd_h_size
@@ -733,8 +736,9 @@ class Model:
         res = tf.reshape(res, shape)
 
         if use_bn:
-            res = batch_norm(res, center=True, scale=True, decay=0.99, updates_collections=None,
-                             is_training=self.is_training_phase, scope=scope)
+            """res = batch_norm(res, center=True, scale=True, decay=0.99, updates_collections=None,
+                             is_training=self.is_training_phase, scope=scope)"""
+            res = BatchNormalization(name="BatchNorm",scale=True,center=True,trainable=True,)(res)
 
         if activation == 'tanh':
             res = tf.nn.tanh(res)

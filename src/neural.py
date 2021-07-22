@@ -1,8 +1,9 @@
 #!/usr/local/bin/python
-import tensorflow as tf
+import tensorflow.compat.v1 as tf
 import math
-import tensorflow.contrib.distributions as ds
+import tensorflow.compat.v1.distributions as ds
 
+tf.disable_v2_behavior()
 
 def bn(input, is_training_phase, bn_scope):
     return tf.contrib.layers.batch_norm(input, center=True, scale=True, decay=0.99, updates_collections=None,

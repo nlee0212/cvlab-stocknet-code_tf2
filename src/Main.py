@@ -12,5 +12,5 @@ if __name__ == '__main__':
 
     exe = Executor(model, silence_step=silence_step, skip_step=skip_step)
 
-    exe.train_and_dev()
+    #exe.train_and_dev()
     exe.restore_and_test()

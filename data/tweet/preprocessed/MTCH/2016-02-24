@@ -1,6 +1,0 @@
-{"text": ["match", "group", "inc", "$", "mtch", "pt", "lowered", "to", "$", "9.00", "URL"], "id": "702625866866696192", "created_at": "2016-02-24T22:47:15.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "pt", "lowered", "to", "$", "9.00", "URL"], "id": "702625735572398080", "created_at": "2016-02-24T22:46:44.000Z"}
-{"text": ["rt", "AT_USER", ":", "meetme", ":", "where", "people", "meet", "and", "investors", "make", "money", "URL", "$", "mtch", "$", "meet"], "id": "702543998473338882", "created_at": "2016-02-24T17:21:56.000Z"}
-{"text": ["meetme", ":", "where", "people", "meet", "and", "investors", "make", "money", "URL", "$", "mtch", "$", "meet"], "id": "702543881028501504", "created_at": "2016-02-24T17:21:28.000Z"}
-{"text": ["$", "mtch", "$", "hon", "#whoops", "URL"], "id": "702532233127526400", "created_at": "2016-02-24T16:35:11.000Z"}
-{"text": ["match", "group", "adds", "sam", "yagan", "(", "founder", ",", "okcupid", ")", "to", "board", "$", "mtch", "#corpgov", "URL"], "id": "702526392865595392", "created_at": "2016-02-24T16:11:59.000Z"}

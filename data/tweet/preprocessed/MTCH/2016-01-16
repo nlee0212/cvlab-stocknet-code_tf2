@@ -1,3 +1,0 @@
-{"text": ["match", "group", "inc", "$", "mtch", "sets", "new", "52", "-", "week", "low", "at", "$", "12.50", "URL"], "id": "688279344792223744", "created_at": "2016-01-16T08:39:18.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "sets", "new", "52", "-", "week", "low", "at", "$", "12.50", "URL"], "id": "688278936443162624", "created_at": "2016-01-16T08:37:40.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "shares", "down", "2.3", "%", "URL"], "id": "688177494877339652", "created_at": "2016-01-16T01:54:35.000Z"}

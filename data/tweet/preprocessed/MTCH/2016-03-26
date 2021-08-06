@@ -1,3 +1,0 @@
-{"text": ["match", "group", "inc", "$", "mtch", "receives", "$", "15.11", "consensus", "pt", "from", "brokerages", "URL"], "id": "713690649430769664", "created_at": "2016-03-26T11:34:45.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "trading", "up", "2.3", "%", "URL"], "id": "713555484196880385", "created_at": "2016-03-26T02:37:39.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "trading", "up", "2.3", "%", "URL"], "id": "713555048945618944", "created_at": "2016-03-26T02:35:55.000Z"}

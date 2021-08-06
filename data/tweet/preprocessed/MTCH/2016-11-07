@@ -1,7 +1,0 @@
-{"text": ["match", "group", "inc", ".", "$", "mtch", "pt", "lowered", "to", "$", "20.00", "URL"], "id": "795659444633948160", "created_at": "2016-11-07T16:09:28.000Z"}
-{"text": ["match", "group", "inc", ".", "$", "mtch", "stock", "rating", "reaffirmed", "by", "bank", "of", "america", "corp", ".", "URL"], "id": "795617624751304705", "created_at": "2016-11-07T13:23:18.000Z"}
-{"text": ["match", "group", "inc", ".", "$", "mtch", "rating", "reiterated", "by", "numis", "securities", "ltd", "URL"], "id": "795617506023133184", "created_at": "2016-11-07T13:22:49.000Z"}
-{"text": ["match", "group", "inc", ".", "$", "mtch", "rating", "reiterated", "by", "numis", "securities", "ltd", "URL"], "id": "795617471478857728", "created_at": "2016-11-07T13:22:41.000Z"}
-{"text": ["$", "mtch", "trending", "now", "11/07", "/", "2016", "!", "if", "you", "follow", "mtch", "what", "do", "you", "think", "about", "it", "?", "go", "here", ":", "--->", "URL", "URL"], "id": "795615176066113536", "created_at": "2016-11-07T13:13:34.000Z"}
-{"text": ["mtch", "URL", "inc", ".", "prev", "close", "read", "more", "-->", "URL", "$", "mtch", "$", "dal", "$", "acrx", "#stockmarket"], "id": "795590899061268480", "created_at": "2016-11-07T11:37:06.000Z"}
-{"text": ["match", "group", "inc", ".", "$", "mtch", "to", "post", "fy2016", "earnings", "of", "$", "0.67", "per", "share", ",", "oppenheimer", "holdings", "forecasts", "URL"], "id": "795537754054660096", "created_at": "2016-11-07T08:05:55.000Z"}

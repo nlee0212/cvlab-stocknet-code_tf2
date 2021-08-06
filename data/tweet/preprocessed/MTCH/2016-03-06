@@ -1,5 +1,0 @@
-{"text": ["match", "group", "inc", "$", "mtch", "shares", "down", "3.1", "%", "URL"], "id": "706479964749754369", "created_at": "2016-03-06T14:02:04.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "shares", "down", "3.1", "%", "URL"], "id": "706479684033355777", "created_at": "2016-03-06T14:00:57.000Z"}
-{"text": ["mtch", "-3.76", "%", "stock", "charts", "$", "mtch", "match", "group", "inc", ".", "(", "nasdaq", ")", "last", "updated", ":", "03/06", "/", "2016", "05:37", ":", "05", "mtch", "stock", "chart", "-", "URL"], "id": "706443365181743104", "created_at": "2016-03-06T11:36:37.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "stock", "price", "down", "3.1", "%", "URL"], "id": "706287966575001601", "created_at": "2016-03-06T01:19:08.000Z"}
-{"text": ["match", "group", "inc", "$", "mtch", "stock", "price", "down", "3.1", "%", "URL"], "id": "706287501258915842", "created_at": "2016-03-06T01:17:17.000Z"}
